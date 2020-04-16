@@ -1,0 +1,5 @@
+Table Name, Column Name, Column Type, Key, Indexed  
+Student,TouchDate,java.lang.Date,False,False 
+Student,gpa,java.lang.double,False,True 
+Student,name,java.lang.String,False,False 
+Student,id,java.lang.Integer,True,False 
